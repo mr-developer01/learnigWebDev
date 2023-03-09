@@ -25,3 +25,30 @@
    c) padding
    d) margin
    e) box-sizing
+
+6. Text & Font
+
+7. CSS Display Properties
+
+8. CSS Display Properties
+   a)Position absolute
+   b)Position relative
+   c)Position fixed
+   d)Position sticky
+   -- Z-index
+
+9. Overflow
+   a) visible
+   b) hidden
+   c) scroll
+   d) auto
+
+10. Float & Clear (Use for formating img with text only)
+
+11. 
+
+
+
+
+
+placeHolde img for testing:--- (https://via.placeholder.com/200) 
