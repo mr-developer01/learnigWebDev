@@ -1,0 +1,27 @@
+1. Learning to set fevicon icon in website pages:---
+   a) link fevicon to html.
+   b) search fevicon.io for designing fevicon icon.
+
+2. Selectors:---
+   1.Simple Selectors
+     a.element Selectors
+     b.class Selectors
+     c.id Selectors
+   2.Universal Selectors(*)
+   3.Grouping Selectors(#id1, #id2)
+   4.Nested Selectors(.class>p or #id>p)
+
+3. Colors:---
+  a) Named Colors
+
+4. Units:---
+   a) % w & h (relative unit)
+   b) vw & vh (absolute unit)
+   c) px, em, rem
+
+5. Box Model:---
+   a) div
+   b) border
+   c) padding
+   d) margin
+   e) box-sizing
