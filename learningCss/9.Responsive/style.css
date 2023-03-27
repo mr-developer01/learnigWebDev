@@ -1,0 +1,92 @@
+body{
+    background-color: red;
+}
+
+/* @media (width <= 400px){
+    body{
+        background-color: yellow;
+    }
+}
+
+@media (max-width: 200px){
+    body{
+        background-color: rgb(211, 184, 29);
+    }
+} */
+
+
+/* @media (min-width: 400px){
+    body{
+        background-color: rgb(240, 236, 3);
+    }
+}
+
+@media (min-width: 600px){
+    body{
+        background-color: rgb(107, 97, 218);
+    }
+} */
+
+
+/* @media (min-width: 200px) and (max-width: 600px){
+    body{
+        background-color: rgb(211, 184, 29);
+    }
+}
+
+  or 
+
+@media (400px <= width <= 600px){
+    body{
+        background-color: rgb(1, 103, 247);
+    }
+} */
+
+
+
+
+
+/* this work when hight is more than width */
+/* @media (orientation: portrait){ 
+    body{
+        background-color: yellow;
+    }
+} */
+
+.one:nth-child(3):hover{
+    background-color: red;
+}
+
+.one:nth-child(3)::first-letter{
+    color: blue;
+    /* animation: animName duration timing-function delay iteration-count direction fill-mode; */
+}
+
+::selection{
+    background-color: rgb(200, 145, 51);
+    color: white;
+}
+
+/* @keyframes animName {
+    from{
+
+    }
+    to{
+
+    }
+} */
+
+/* @keyframes animName2 {
+    0%{
+
+    }
+    25%{
+
+    }
+    50%{
+
+    }
+    75%{
+
+    }
+} */

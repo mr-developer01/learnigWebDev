@@ -45,7 +45,38 @@
 
 10. Float & Clear (Use for formating img with text only)
 
-11. 
+11. Flex box
+
+12. CSS Grid Properties
+
+13. Making Responsive to websites
+
+14. Pseudo-classes
+     :link
+     :visited
+     :hover
+     :active
+
+15. Pseudo-Elements
+     ::first-line
+     ::first-letter
+     ::before
+     ::after
+     ::selection
+
+16. CSS transform Property
+     Rotate,
+     skew, 
+     scale and
+     translate
+
+17. CSS Transitions for animation
+     transition-delay
+     transition-duration
+     transition-property
+     transition-timing-function
+
+18. @keyfram Animation
 
 
 
